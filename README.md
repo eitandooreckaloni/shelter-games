@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏠 Shelter Games
 
-## Getting Started
+Web mini-games for families during shelter time. Safe, stress-reducing activities with zero-friction access.
 
-First, run the development server:
+## 🎮 Games Available
+
+- **🧠 Memory Match** - Classic card matching game for memory training
+- **📚 Word Play** - Simple word puzzles and vocabulary games  
+- **🎨 Draw & Color** - Digital drawing canvas and coloring templates
+- **🌸 Breathing Buddy** - Guided breathing exercises for relaxation
+- **🎵 Rhythm Tap** - Musical rhythm games and sound activities
+- **📖 Story Time** - Interactive choose-your-own-adventure stories
+
+## ✨ Features
+
+- **Zero-friction access** - No signup or registration required
+- **Offline-ready** - Works with poor or no internet connection
+- **Child-safe** - Family-friendly content designed for all ages
+- **Stress-reducing** - Activities specifically chosen for calming effect
+- **Responsive design** - Works on all devices (phones, tablets, laptops)
+- **Shareable links** - Each game has its own URL for easy sharing
+
+## 🚀 Live Demo
+
+**[Play Games Now →](https://shelter-games.vercel.app)**
+
+## 🏗️ Tech Stack
+
+- **Next.js 16** - React framework with app router
+- **Tailwind CSS** - Utility-first CSS framework
+- **TypeScript** - Type-safe JavaScript
+- **Vercel** - Deployment platform
+
+## 📝 Development
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📄 License
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Built with ❤️ for families everywhere during challenging times.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*Made by AppFactory - Turning ideas into shipped apps*
